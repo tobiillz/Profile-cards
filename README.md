@@ -2,4 +2,4 @@
 
 A frontend mentors task
 
-Status: No completely styled
+Status: Not completely styled
